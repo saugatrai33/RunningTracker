@@ -9,4 +9,7 @@
         <item>Calories Burned</item>
     </string-array>
     <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCnIg-PT7zJAKKvdzsYhrMJi7LGp49wgKc</string>
+    <string name="nav_title_your_run">Your Run</string>
+    <string name="nav_title_statistics">Statistics</string>
+    <string name="nav_title_settings">Settings</string>
 </resources>
